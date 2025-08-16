@@ -155,16 +155,6 @@ NEW_BLOCK = tex_coords((3,0), (3,1), (3,0))
 
 ---
 
-## 📸 Screenshots & Demo
-
-It helps a lot to include a few screenshots or a short GIF of gameplay in the README. Add them to the repo and reference with:
-
-```md
-![Gameplay screenshot](assets/screenshot1.png)
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome:
