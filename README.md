@@ -170,7 +170,7 @@ Please fork, create a feature branch, and open a pull request describing the cha
 
 ## 📜 License
 
-This project is released under the **MIT License** — free to use and modify. (Add a `LICENSE` file with MIT text if you want to be explicit.)
+This project is released under the **MIT License** — free to use and modify.
 
 ---
 
