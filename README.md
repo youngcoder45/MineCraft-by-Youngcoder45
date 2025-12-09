@@ -4,7 +4,7 @@ A simple, playable **Minecraft-like 3D block world** built with **Python** and *
 This project recreates the core feel of block building and exploration: place and remove blocks, walk/fly around, and enjoy a small procedurally-generated world. It’s a great learning project for 3D graphics, game loops, and input handling.
 
 ---
-
+yea
 ## 🔎 What this is
 
 * A compact Python implementation of a block-based world (in the spirit of Minecraft).
